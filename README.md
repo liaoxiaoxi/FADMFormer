@@ -42,7 +42,7 @@ python train.py
 ```
 ### Dataset Download
 
-The three single-frame infrared small target detection datasets used in this work are publicly available. Their download links can be found below.
+The four single-frame infrared small target detection datasets used in this work are publicly available. Their download links can be found below.
 
 * **NUDT-SIRST**
 
@@ -62,4 +62,10 @@ The three single-frame infrared small target detection datasets used in this wor
     NUAA-SIRST is a single-frame infrared small target detection dataset collected from infrared image sequences, with pixel-level annotations for small target segmentation.
 
     * [SIRST GitHub](https://github.com/YimianDai/sirst)
+
+* **SIRST-V2**
+
+    SIRST-V2 is a single-frame infrared small target detection dataset containing images selected from thousands of infrared sequences across diverse scenarios, with bounding-box and pixel-level segmentation annotations.
+
+    * [SIRST-V2 GitHub](https://github.com/YimianDai/open-sirst-v2)
 Contact 2481177956@qq.com if you have other questions.
