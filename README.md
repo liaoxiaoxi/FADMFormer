@@ -1,8 +1,8 @@
 FADMFormer: Frequency-Aware and Deep-Guided Multi-Semantic Transformer for Infrared Small Target Detection
 By Xiaoxi Liao, Kai Wang*
 
-[4-1.pdf](https://github.com/user-attachments/files/35129426/4-1.pdf)
-[F1.pdf](https://github.com/user-attachments/files/35129430/F1.pdf)
+<img width="4536" height="2990" alt="4-1" src="https://github.com/user-attachments/assets/d6cd60e2-3e74-47cd-9a6e-4e3a2b541015" />
+<img width="1531" height="771" alt="F1" src="https://github.com/user-attachments/assets/6846b975-f509-4058-9d3d-e817d8a2f0a3" />
 
 ## Requirements
 
@@ -68,4 +68,5 @@ The four single-frame infrared small target detection datasets used in this work
     SIRST-V2 is a single-frame infrared small target detection dataset containing images selected from thousands of infrared sequences across diverse scenarios, with bounding-box and pixel-level segmentation annotations.
 
     * [SIRST-V2 GitHub](https://github.com/YimianDai/open-sirst-v2)
+
 Contact 2481177956@qq.com if you have other questions.
