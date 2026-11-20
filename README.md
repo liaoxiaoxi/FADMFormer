@@ -1,7 +1,9 @@
 FADMFormer: Frequency-Aware and Deep-Guided Multi-Semantic Transformer for Infrared Small Target Detection
 By Xiaoxi Liao, Kai Wang*
-<img width="1398" height="682" alt="image" src="https://github.com/user-attachments/assets/8b639a1e-fa55-4dbd-ab08-e7eb166e0918" />
-<img width="1419" height="439" alt="image" src="https://github.com/user-attachments/assets/c83ab62d-b606-4fe2-9400-0981f6d31ab2" />
+
+[4-1.pdf](https://github.com/user-attachments/files/35129426/4-1.pdf)
+[F1.pdf](https://github.com/user-attachments/files/35129430/F1.pdf)
+
 ## Requirements
 
 * Python 3.8
